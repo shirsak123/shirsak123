@@ -17,6 +17,8 @@
 - 📫 How to reach me **shirsak.shrestha@gmail.com**
 
 - ⚡ Fun fact **I play games and wanted to explore new skills.**
+- 
+-  📫 My resume **https://drive.google.com/file/d/1-xTZPuKDbsSQ85f4j8tUI4HrJPO0hLe1/view?usp=sharing**
 
 ## 🚀 Languages and Tools:
 
