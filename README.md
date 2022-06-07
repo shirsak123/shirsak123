@@ -51,6 +51,19 @@
     </a>
 </p>
  -->
+ <br>
+ 
+ <p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=shirsak123&theme=dark&hide_border=true" width = 600>
+</p>
+
+<br>
+<div align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=shirsak123&theme=dracula">
+</div>
+<br>
+
+
 ## Connect with me:
 <p align="left">
 
